@@ -6,3 +6,7 @@ and (max-device-width: 1600px) {
       	margin-left:125px;
       }
     }
+
+.emoji{
+	font-family: "Apple Color Emoji","Segoe UI Emoji","NotoColorEmoji","Segoe UI Symbol","Android Emoji","EmojiSymbols"
+}
