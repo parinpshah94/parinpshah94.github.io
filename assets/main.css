@@ -10,3 +10,17 @@ and (max-device-width: 1600px) {
 .emoji{
 	font-family: "Apple Color Emoji","Segoe UI Emoji","NotoColorEmoji","Segoe UI Symbol","Android Emoji","EmojiSymbols"
 }
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+body{
+  background-color: #f8f9fa
+}
